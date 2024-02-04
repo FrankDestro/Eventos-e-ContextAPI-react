@@ -1,0 +1,16 @@
+.child-container {
+    border: 1px solid red;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 120px;
+}
+
+.child-container p {
+    color: red;
+}
+
+.child-container button {
+    width: 100px;
+    margin-top: 10px;
+}
