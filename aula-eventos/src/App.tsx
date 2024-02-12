@@ -1,10 +1,9 @@
-import ParentComponent from "./components/ParentComponent"
+import CartComponent from "./components/CartComponent"
 
 function App() {
-
   return (
     <>
-     <ParentComponent/>
+     <CartComponent/>
     </>
   )
 }
